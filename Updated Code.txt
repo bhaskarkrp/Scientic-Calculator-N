@@ -173,6 +173,8 @@ void main()
 
 		       }
 
+
+
 void text()
 		{
 	int choice, i, a, b,c;
